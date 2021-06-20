@@ -105,9 +105,9 @@ button:focus {
 
     button {
         color: #fff;
-        padding: 15px 5px;
-        font-size: 15px;
-        margin: 30px ;
+        padding: 12px 5px;
+        font-size: 14px;
+        margin: 20px auto;
         border: none;
         border-radius: 5px;
         cursor: pointer;
